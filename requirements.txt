@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-docx>=1.1.0
+pysbd>=0.3.4
+httpx
+pytest>=8
